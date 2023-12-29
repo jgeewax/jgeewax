@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-I'm a software engineer at Google working on real-time payment systems, API design, and cloud infrastructure.
+I'm currently a software engineer at WhatsApp working on features for businesses.
+Previously I was a software engineer at Google working on real-time payment systems, API design, and cloud infrastructure.
 I've worked in Java, Python, as well as Javascript / Node.js / TypeScript.
 I'm really interested in learning more about Flutter, Rust, and C#.
 
-- 🔭 I’m currently working on [Mojaloop][], [Payments at Google][Payments], and [API design][aip].
+- 🔭 I'm currently working on [WhatsApp Flows][Flows], AI inside WhatsApp, and API Design.
+- 🔭 At Google, I worked on [Mojaloop][], [Payments][Payments], and [API design][aip].
 - 🌱 I’m currently learning about [payment systems in the US](https://www.amazon.com/Payments-Systems-U-S-Third-Professional-ebook/dp/B074PB7T1K).
 - 💬 Ask me about APIs, Google Cloud, software engineering, or working at Google.
 - 📫 How to reach me: [GitHub (@jgeewax)][github], [Twitter (@jgeewax)][twitter], [LinkedIn][linkedin]
@@ -44,3 +46,4 @@ I'm really interested in learning more about Flutter, Rust, and C#.
 [twitter]: https://twitter.com/jgeewax
 [linkedin]: https://linkedin.com/in/jgeewax
 [rtp-whitepaper]: https://research.google/pubs/pub50087/
+[Flows]: https://business.whatsapp.com/products/whatsapp-flows
