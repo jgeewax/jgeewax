@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-I'm currently a software engineer at WhatsApp working on features for businesses.
-Previously I was a software engineer at Google working on real-time payment systems, API design, and cloud infrastructure.
-I've worked in Java, Python, as well as Javascript / Node.js / TypeScript.
-I'm really interested in learning more about Flutter, Rust, and C#.
+I'm currently leading Applied AI at Google DeepMind in Singapore.
+Previously I was a Software Engineer at Meta (Singapore) and Google (NYC and then Singapore).
+I've worked in Python, Dart, Javascript, Node.js, TypeScript, and some Java.
+I'm curious to learn more about Rust and keep exploring interesting AI-powered development and design tools.
 
-- 🔭 I'm currently working on [WhatsApp Flows][Flows], AI inside WhatsApp, and API Design.
+- 🔭 I'm currently exploring interesting applications of AI in the real world, to showcase what DeepMind models can do and find things they struggle with.
+- 🔭 At Meta, I worked on WhatsApp, then Ad Signal, then as a technical advisor to the COO.
 - 🔭 At Google, I worked on [Mojaloop][], [Payments][Payments], and [API design][aip].
-- 🌱 I’m currently learning about [payment systems in the US](https://www.amazon.com/Payments-Systems-U-S-Third-Professional-ebook/dp/B074PB7T1K).
-- 💬 Ask me about APIs, Google Cloud, software engineering, or working at Google.
-- 📫 How to reach me: [GitHub (@jgeewax)][github], [Twitter (@jgeewax)][twitter], [LinkedIn][linkedin]
-- 😄 Pronouns: he/him
 
 ### My books
 
