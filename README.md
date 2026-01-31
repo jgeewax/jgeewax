@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently leading Applied AI at Google DeepMind in Singapore.
+I'm currently working on Applied AI at Google DeepMind in Singapore.
 Previously I was a Software Engineer at Meta (Singapore) and Google (NYC and then Singapore).
 I've worked in Python, Dart, Javascript, Node.js, TypeScript, and some Java.
 I'm curious to learn more about Rust and keep exploring interesting AI-powered development and design tools.
